@@ -1,17 +1,15 @@
 {
   "files": {
     "main.css": "/color-therapy-book-gh/static/css/main.be1ebbae.css",
-    "main.js": "/color-therapy-book-gh/static/js/main.fcb2ce77.js",
-    "static/js/534.ce7af96e.chunk.js": "/color-therapy-book-gh/static/js/534.ce7af96e.chunk.js",
+    "main.js": "/color-therapy-book-gh/static/js/main.5f6c8444.js",
     "static/media/NotoNastaliqUrdu-VariableFont_wght.ttf": "/color-therapy-book-gh/static/media/NotoNastaliqUrdu-VariableFont_wght.11ac96cbdde3ac31ef8e.ttf",
     "static/media/Mehr_Nastaliq_Web.woff": "/color-therapy-book-gh/static/media/Mehr_Nastaliq_Web.b4c61e501b78b0585837.woff",
     "index.html": "/color-therapy-book-gh/index.html",
     "main.be1ebbae.css.map": "/color-therapy-book-gh/static/css/main.be1ebbae.css.map",
-    "main.fcb2ce77.js.map": "/color-therapy-book-gh/static/js/main.fcb2ce77.js.map",
-    "534.ce7af96e.chunk.js.map": "/color-therapy-book-gh/static/js/534.ce7af96e.chunk.js.map"
+    "main.5f6c8444.js.map": "/color-therapy-book-gh/static/js/main.5f6c8444.js.map"
   },
   "entrypoints": [
     "static/css/main.be1ebbae.css",
-    "static/js/main.fcb2ce77.js"
+    "static/js/main.5f6c8444.js"
   ]
 }
